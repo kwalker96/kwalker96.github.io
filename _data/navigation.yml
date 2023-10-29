@@ -9,14 +9,16 @@ main:
   - title: "Key Publications"
     url: /publications/
 
+  - title: "News"
+     url: /portfolio/
+  
   - title: "Accolades"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  
         
   # - title: "Blog Posts"
   #   url: /year-archive/
