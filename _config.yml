@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kyle L. Walker"
 description              : &description "personal description"
