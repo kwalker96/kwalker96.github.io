@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-(/images/group.png){: .align-right width="300px"}
+![group_pic](/images/group.png){: .align-right width="300px"}
 **I am currently a Robotics Engineer at the National Robotarium**, the UK’s centre for Robotics and Artificial Intelligence, with my current focus on developing soft robotic systems applicable for industrial settings. 
 
 I recently obtained my Ph.D. in Marine and Soft Robotics from the University of Edinburgh (Sept. 2023), where I worked on predictive disturbance rejection for underwater vehicle and soft manipulators using model-based methods and explicit consideration of wave disturbance preview information.
