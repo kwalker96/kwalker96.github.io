@@ -10,10 +10,12 @@ main:
     url: /publications/
 
   - title: "News"
+    url: /talks/
+    
+  - title: "Accolades"
     url: /portfolio/
   
-  - title: "Accolades"
-    url: /talks/    
+      
 
   #- title: "Teaching"
   #  url: /teaching/    
