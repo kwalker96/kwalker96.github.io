@@ -23,7 +23,19 @@ In Recent Times:
 <div class="twitterborder">
     <div class="table">
         <div class="table-cell">
-<a class="twitter-timeline tw-align-center" data-width="500" data-theme="light" href="https://twitter.com/kyleliamwalker?ref_src=twsrc%5Etfw">Tweets by kyleliamwalker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline tw-align-center" data-width="500" data-theme="light" href="https://twitter.com/kyleliamwalker?ref_src=twsrc%5Etfw">Tweets by kyleliamwalker</a>
+    <script>
+        ! function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0],
+                p = /^http:/.test(d.location) ? 'http' : 'https';
+            if (!d.getElementById(id)) {
+                js = d.createElement(s);
+                js.id = id;
+                js.src = p + "://platform.twitter.com/widgets.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+        }(document, "script", "twitter-wjs");
+    </script>
 </div>
     </div>
 </div>
