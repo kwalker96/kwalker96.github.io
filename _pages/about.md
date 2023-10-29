@@ -20,25 +20,7 @@ In Recent Times:
 ======
 **06 Oct. 2023:** [IROS 2023 @ Huntington Place, Detroit](_talks/2012-03-01-talk-1.md) 📃 
 
-<div class="twitterborder">
-    <div class="table">
-        <div class="table-cell">
-<a class="twitter-timeline tw-align-center" data-width="500" data-theme="light" href="https://twitter.com/kyleliamwalker?ref_src=twsrc%5Etfw">Tweets by kyleliamwalker</a>
-    <script>
-        ! function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0],
-                p = /^http:/.test(d.location) ? 'http' : 'https';
-            if (!d.getElementById(id)) {
-                js = d.createElement(s);
-                js.id = id;
-                js.src = p + "://platform.twitter.com/widgets.js";
-                fjs.parentNode.insertBefore(js, fjs);
-            }
-        }(document, "script", "twitter-wjs");
-    </script>
-</div>
-    </div>
-</div>
+<a class="twitter-timeline tw-align-center" data-width="500" data-theme="light" href="https://twitter.com/kyleliamwalker?ref_src=twsrc%5Etfw">Tweets by kyleliamwalker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
