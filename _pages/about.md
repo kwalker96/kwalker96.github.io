@@ -18,9 +18,9 @@ Previously, I completed an MEng in Electrical and Mechanical Engineering at the 
 
 In Recent Times:
 ======
-**06 Oct. 2023:** [IROS 2023 @ Huntington Place, Detroit](/_pages/iros2023.md) 📃 
+**06 Oct. 2023:** [IROS 2023 @ Huntington Place, Detroit](/_talks/iros2023.md) 📃 
 
-**21 Sept. 2023:** [Successful Ph.D. Defence](/_pages/viva.md) 🎉
+**21 Sept. 2023:** [Successful Ph.D. Defence](/_talks/viva.md) 🎉
 
 <a class="twitter-timeline tw-align-center" data-width="500" data-theme="light" href="https://twitter.com/kyleliamwalker?ref_src=twsrc%5Etfw">Tweets by kyleliamwalker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
