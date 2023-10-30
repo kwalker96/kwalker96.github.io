@@ -2,7 +2,7 @@
 title: "Successful Ph.D. Defence: Pass with Minor Corrections"
 collection: talks
 type: "Viva"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/viva
 venue: "University of Edinburgh"
 date: 2023-09-21
 location: "Edinburgh, UK"
