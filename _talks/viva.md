@@ -8,6 +8,4 @@ date: 2023-09-21
 location: "Edinburgh, UK"
 ---
 
-[You can read an electronic version of my thesis here (pending corrections)](http://example2.com)
-
-Woohoo!
+[You can read an electronic version of my thesis here (pending corrections)](http://example2.com) Woohoo!
