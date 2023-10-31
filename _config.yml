@@ -87,7 +87,7 @@ author:
   employer         : "The National Robotarium"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=cZDL820AAAAJ&hl=en"
-  email            :
+  email            : "Kyle.Walker@hw.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/Kyle-Walker-8"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/kyle-walker-8a325b133/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
