@@ -1,5 +1,5 @@
 ---
-title: "JSPS Summer Fellowship"
+title: "JSPS Summer Fellowship 🎊"
 excerpt: "Update with details."
 collection: portfolio
 ---
