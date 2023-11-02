@@ -1,5 +1,5 @@
 ---
-title: "Saltire Scotland Travel Fellowship"
+title: "Saltire Scotland Travel Fellowship ✈️"
 excerpt: "Update with details."
 collection: portfolio
 ---
