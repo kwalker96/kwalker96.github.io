@@ -1,5 +1,5 @@
 ---
-title: "Electronics Weekly Brightsparks"
+title: "Electronics Weekly Brightsparks 🏆"
 excerpt: "Update with details."
 collection: portfolio
 ---
