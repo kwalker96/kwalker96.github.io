@@ -22,7 +22,7 @@ In Recent Times:
 
 **21 Sept. 2023:** [Successful Ph.D. Defence](/talks/2014-02-01-talk-2) 🎉
 
-**07 Sept. 2023:** [Orkney Science Festival](/talks/orkney) 🎉
+**07 Sept. 2023:** [Orkney Science Festival](/talks/orkney) 
 
 <a class="twitter-timeline tw-align-center" data-width="500" data-theme="light" href="https://twitter.com/kyleliamwalker?ref_src=twsrc%5Etfw">Tweets by kyleliamwalker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
