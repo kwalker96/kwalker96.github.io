@@ -1,5 +1,5 @@
 ---
-title: "Oceans 2023 - Limerick🍀"
+title: "Oceans 2023 - Limerick 📃"
 collection: talks
 type: "Conference"
 permalink: /talks/oceans2023
