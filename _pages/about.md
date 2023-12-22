@@ -18,11 +18,11 @@ Previously, I completed an MEng in Electrical and Mechanical Engineering at the 
 
 In Recent Times:
 ======
+**23 Dec. 2023:** [ICRA 2024 @ PACIFICO, Yokohama](/talks/icra24_workshop) 🔧
+
 **06 Oct. 2023:** [IROS 2023 @ Huntington Place, Detroit](/talks/2012-03-01-talk-1) 📃 
 
 **21 Sept. 2023:** [Successful Ph.D. Defence](/talks/2014-02-01-talk-2) 🎉
-
-**07 Sept. 2023:** [Orkney Science Festival](/talks/orkney) 
 
 <a class="twitter-timeline tw-align-center" data-width="500" data-theme="light" href="https://twitter.com/kyleliamwalker?ref_src=twsrc%5Etfw">Tweets by kyleliamwalker</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
