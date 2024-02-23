@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Democratization of Soft Robotics through Embodied Intelligence"
 collection: teaching
-type: "Undergraduate course"
+type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "RoboSoft 2024"
 date: 2014-01-01
-location: "City, Country"
+location: "San Diego, CA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+TBC
 
 Heading 1
 ======
