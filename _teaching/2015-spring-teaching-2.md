@@ -8,7 +8,7 @@ date: 2024-05-13
 location: "PACIFICO, Yokohama, Japan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+TBC
 
 Heading 1
 ======
