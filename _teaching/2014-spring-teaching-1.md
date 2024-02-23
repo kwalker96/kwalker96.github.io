@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
 venue: "RoboSoft 2024"
-date: 2014-01-01
+date: 2024-04-14
 location: "San Diego, CA, USA"
 ---
 
