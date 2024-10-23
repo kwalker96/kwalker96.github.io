@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![group_pic](/images/IMG_1310.png){: .align-right width="300px"}
+![group_pic](/images/IMG_1310.jpg){: .align-right width="300px"}
 **I'm Kyle, a Robotics Engineer at [The National Robotarium](https://thenationalrobotarium.com)**, the UK’s centre for Robotics and Artificial Intelligence, where I am currently focusing on developing soft robotic systems applicable for industrial settings. 
 
 I recently obtained my Ph.D. in Marine and Soft Robotics from the University of Edinburgh (Sept. 2023), where I worked on predictive disturbance rejection for underwater vehicles and soft manipulators using model-based methods. I also spent time at TU Delft (Netherlands) and Tohoku University (Japan) through research stays as part of this project. 
