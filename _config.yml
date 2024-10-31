@@ -116,8 +116,8 @@ author:
   youtube          :
   wikipedia        :
 
-header:
-  image: /images/header_test.jpg
+# header:
+#   image: /images/header_test.jpg
 
 # Reading Files
 include:
