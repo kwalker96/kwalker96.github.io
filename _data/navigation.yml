@@ -3,19 +3,17 @@ main:
   - title: "CV"
     url: /files/CV_Academic_2024.pdf
 
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
     
-  - title: "Key Publications"
+  - title: "Publications"
     url: /publications/
 
-  - title: "News"
+  - title: "Blog"
     url: /talks/
     
   - title: "Grants and Awards"
-    url: /portfolio/
-  
-      
+    url: /portfolio/     
 
   - title: "Workshops"
     url: /teaching/    
