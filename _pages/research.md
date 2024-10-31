@@ -3,4 +3,4 @@ permalink: /research/
 title: "Research"
 ---
 
-Test text.
+My academic research to date has covered a variety of topics, but broadly speaking it falls into two "categories": Marine Robotics and Soft Robotics. 
