@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**I'm Kyle, a Robotics Engineer at [The National Robotarium](https://thenationalrobotarium.com)**, the UK’s centre for Robotics and Artificial Intelligence, where I am currently focusing on developing soft robotic systems applicable for industrial settings. 
+**I'm Kyle, a Postdoctoral Researcher in the [CREATE Lab](https://www.epfl.ch/labs/create/) at EPFL**, where I am currently focusing on developing soft robotic systems applicable for industrial settings. 
 
 I hold a Ph.D. in Marine and Soft Robotics from the University of Edinburgh (Sept. 2023), where I worked on predictive disturbance rejection for underwater vehicles and soft manipulators using model-based methods. I also spent time at TU Delft (Netherlands) and Tohoku University (Japan) through research stays as part of this project. 
 
-Previously, I completed an MEng in Electrical and Mechanical Engineering at the University of Strathclyde and worked part-time for a MedTech start-up, [Bioliberty](https://bioliberty.co.uk/#/home), developing assistive and rehabilitative robotics. 
+Previously, I completed an MEng in Electrical and Mechanical Engineering at the University of Strathclyde and worked part-time for a MedTech start-up, [Bioliberty](https://bioliberty.co.uk/#/home), developing assistive and rehabilitative robotics. Most recently I was a Robotics Engineer at [The National Robotarium](https://thenationalrobotarium.com), the UK’s centre for Robotics and Artificial Intelligence.
 
 ![group_pic](/images/website_photo_collage.png){: .align-center width="100%"}
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
